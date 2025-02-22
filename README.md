@@ -7,3 +7,7 @@ FitQuest is a gamified fitness and wellness platform designed to encourage users
 1. Clone this repository:
    ```bash
    git clone https://github.com/NovaJenish/FitQuest-Gamified-Fitness.git
+
+## License
+We chose the **MIT License** because it provides flexibility for anyone to modify and use the software while maintaining attribution. This encourages community collaboration and contribution.
+   
